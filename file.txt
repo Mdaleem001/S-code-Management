@@ -1,3 +1,3 @@
 my new file is addded
-
+another line is added in this
 another commit is added.
