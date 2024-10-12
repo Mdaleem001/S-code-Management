@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 my new file is addded
 another line is added in this
 another commit is added.
+=======
+demo file name.
+>>>>>>> 49eeb45f4afe7ea85ca5223faa9060db38191651
